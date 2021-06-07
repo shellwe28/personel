@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\ALL\personel\personel\bin\Debug\personel.exe.config
+C:\Users\user\Desktop\ALL\personel\personel\bin\Debug\personel.exe
+C:\Users\user\Desktop\ALL\personel\personel\bin\Debug\personel.pdb
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.Form1.resources
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.Properties.Resources.resources
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.exe
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.pdb
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.Form2.resources
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.Form3.resources
+C:\Users\user\Desktop\ALL\personel\personel\obj\Debug\personel.Form4.resources
